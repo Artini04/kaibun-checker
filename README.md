@@ -4,7 +4,7 @@
 
 ---
 
-#### Usage
+## Usage
 
 1. Run the program
 
